@@ -18,6 +18,10 @@ hr {
   max-width: 65px;
 }
 
+.buffer {
+  height: 10rem;
+}
+
 .btn {
   font-weight: 700;
   border-radius: 300rem;
